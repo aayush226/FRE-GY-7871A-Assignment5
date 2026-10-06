@@ -1,0 +1,14 @@
+requests
+python-dotenv
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+nltk
+vaderSentiment
+yfinance
+feedparser
+matplotlib
+jupyter
+ipykernel
